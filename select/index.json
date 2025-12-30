@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ジェットコースターラブ",
+  "base_artist": "KARA",
+  "createdAt": "2025-12-30T13:56:35.098717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジェットコースターラブ (Originally Performed By KARA)",
+      "artist": "Mutsuhiro Nishiwaki",
+      "has_synced": false,
+      "path": "select/01_ジェットコースターラブ_(Originally_Performed_By_KARA)_Mutsuhiro_Nishiwaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジェットコースターラブ",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/02_ジェットコースターラブ_KARA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジェットコースターラブ (Instrumental)",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/03_ジェットコースターラブ_(Instrumental)_KARA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェットコースターラブ",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/pl_01_ジェットコースターラブ_KARA.txt"
+    }
+  ]
+}
